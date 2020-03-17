@@ -2,7 +2,7 @@
 Performing analysis on Kickstarter data to uncover trends
 ###Challenge
 Determine whether launch date or goal amount contributes to campaign outcome
-[filename](path/to/Kickstarter Analysis - Natalie.xlsx)
+[Analysis](path/to/Kickstarter Analysis - Natalie.xlsx)
 
 ##Analysis of goal amount and campaign outcomes
  ![image_name](path/to/image_name.png)
